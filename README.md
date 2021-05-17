@@ -9,6 +9,8 @@ Please download Tello library created by me
 ### Second #2
 * In **Code** file, u will find code, upload it to esp8266 or any esp
 *  make sure to use my library
+*  And change wifi SSID to your SSID
+*  And change the pasword
 ### Third #3
 * Create a circuit using this **Diagram**
 
