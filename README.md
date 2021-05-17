@@ -19,18 +19,4 @@ Please download Tello library created by me
 ![circuit](https://github.com/DEAD-GOST/Tello_esp8266/blob/main/electrical%20connection/electronics.png?raw=true)
 
 
-
-
-##  Flow Chart
-
-
-
-And this will produce a flow chart:
-
-```mermaid
-graph LR
-A[First Install Library] --> B([uplode the code])
-B --> D([flow the diagram])
-D --> E([fly the drone])
-```
 > FlyDrone like Sova in valorant game :)
